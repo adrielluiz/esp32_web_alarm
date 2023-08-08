@@ -1,2 +1,2 @@
-# esp32_web_alarm
+# Esp32 web alarm
 Alarm system with web configuration
